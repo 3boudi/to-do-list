@@ -156,7 +156,7 @@ ul li span:hover {
 /* Extra Small Mobile Devices (Portrait) */
 @media (max-width: 480px) {
     .todo-app {
-        padding: 20px 15px 40px;
+        padding: 40px 15px 40px;
     }
 
     .todo-app h2 {
@@ -165,11 +165,11 @@ ul li span:hover {
 
     input {
         padding: 6px;
-        font-size: 12px;
+        font-size: 15px;
     }
 
     button {
-        padding: 10px;
+        padding: 20px;
         font-size: 12px;
     }
 
